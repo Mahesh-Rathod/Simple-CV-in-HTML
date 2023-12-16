@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>CV</title>
+</head>
+<body>
+<form>
+<fieldset>
+<h1><center>RESUME</center></h1>
+<img align="right" src="C:\Users\Amol\Desktop\mahesh.jpg">
+<label><h1>Mahesh Pandit Rathod</label></h1>
+<label><b>Address:</b>At-Valthan Tanda Tal Chalisgaon,Jalgaon</label></br>
+<label><b>Phone No:</b>+91 7447273347</label></br>
+<label><b>Gmail:</b>mprathod08@gmail.com</label></br>
+<label><b>LinkedIn:</b>http://linkedin.com/in/mahesh-rathod-ba1708224</label></br>
+<h2 style="background-color:silver">CAREER OBJECTIVE:</h2>
+<p>To secure a responsible career fully utilizing my training & skills, 
+while making a significant contribution to the success of the company while 
+gaining work experience & upgrading my knowledge.</p>
+<h2 style="background-color:silver">ACADEMIC QALIFICATION:<h2>
+<table  style="width:100%"border="">
+<style>
+        td {
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+</style>
+<tr>
+<th>Qaulification</th>
+<th>Collage/University Name</th>
+<th>Course/Stream</th>
+<th>Year of passing</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td>SSC</td>
+<td>Nashik Board</td>
+<td>SSC</td>
+<td>2016</td>
+<td>83.40%</td>
+</tr>
+<tr>
+<td>HSC</td>
+<td>Nashik Board</td>
+<td>Science</td>
+<td>2018</td>
+<td>59.40%</td>
+</tr>
+<tr>
+<td>BCA</td>
+<td>North Maharastra University</td>
+<td>Computer</td>
+<td>2021</td>
+<td>89.40%</td>
+</tr>
+</table>
+<h2 style="background-color:silver">TECNICAL SKILL:</h2>
+<li><b>Known Programming Language:</b></li>
+<ul type ="circle">
+<dd>C,C++,JAVA,C#,PHP</dd>
+</ul>
+<li><b>Known Web Technology:</b></li>
+<ul type ="circle">
+<li>HTML,CSS,JAVASCRIPT</li>
+</ul>
+<body>
+<h2>
+<h2 style="background-color:silver">
+CERTIFICATIONS</h2>
+</body>
+<ul type="circle">
+<li>Programming in Java</li>
+<li>CCNA(Netwoking)</li>
+</ul>
+<h2 style="background-color:silver">PERSONAL ASSETS:</h2>
+<ul>
+<li>Hardworking</li>
+<li>Honest</li>
+<li>Quick lerner</li>
+<li>Always ready for learning new things</li>
+</ul>
+<h2 style="background-color:silver">DECLARATION:</h2>
+<p>I hereby declare that the above particulars of facts and information 
+stated are correct to the best of my belief and knowledge.</p>
+<label><b>Date:</b></label></br>
+<label><b>Place:</b></label></br>
+<b><p style="text-align:right;">Mahesh.P.Rathod</b>
+</fieldset>
+</form>
+</body>
+</html>
